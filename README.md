@@ -50,8 +50,8 @@ This repository provides reproducible implementations of core Multi-View Fuzzy C
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/siyak06/Agrimesh.git
-   cd Agrimesh
+   git clone https://github.com/siyak06/MV-FCM.git
+   cd MV-FCM
    ```
 
 2. **Create and activate a virtual environment**:
